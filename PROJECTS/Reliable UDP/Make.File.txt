@@ -1,0 +1,8 @@
+RelaibleUDPClient: RelaibleUDPClient.c
+	gcc RelaibleUDPClient.c -o RelaibleUDPClient.out
+
+ReliableUDPServer: ReliableUDPServer.c
+	gcc ReliableUDPServer.c -o ReliableUDPServer.out
+	
+	
+	

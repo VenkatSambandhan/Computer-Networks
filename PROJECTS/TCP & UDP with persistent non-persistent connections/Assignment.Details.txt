@@ -1,0 +1,15 @@
+Name: Venkat Sambandhan
+Student ID: 0003544188
+MS in CS: Fall 2015
+
+I have attached the files for TCP(persistent/non-persistent, client and browser) and UDP (couldn't complete debugging).
+
+References: 
+
+1. http://www.linuxhowtos.org/C_C++/socket.htm
+
+2. http://www.paulgriffiths.net/program/c/webserv.php
+
+Discussed with: Maaz Syed
+
+Bug in my code: I get the output only when the text files have a star (*) in the end. Was having a small issue with the looping while I get the response. So please add a "*" at the end of each text file if possible.
